@@ -5,9 +5,26 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask atom
+cask cakebrew
+cask ccleaner
+cask cfxr
+cask diskwave
+cask dropbox
+cask emacs
 cask google-chrome
+cask ifunbox
+cask karabiner
+cask kindle
+cask openemu
+cask skype
+cask utorrent
+cask vlc
 
 tap caskroom/versions
+cask google-chrome-canary
+cask iterm2-beta
+cask sublime-text3
 
 tap homebrew/core
 brew autoconf
@@ -54,4 +71,3 @@ appstore 403388562 Transmit
 appstore 409789998 Twitter
 appstore 461369673 VOX
 appstore 497799835 Xcode
-appstore 428834067 YoruFukurou
