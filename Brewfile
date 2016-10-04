@@ -14,18 +14,20 @@ cask dropbox
 cask emacs
 cask google-chrome
 cask ifunbox
+cask iterm2
 cask karabiner
 cask kindle
 cask ngrok
 cask openemu
 cask skype
+cask slack
+cask sublime-text
 cask tuntap
 cask utorrent
 cask vlc
+cask webstorm
 
 tap caskroom/versions
-cask google-chrome-canary
-cask iterm2-beta
 
 tap homebrew/core
 brew autoconf
@@ -83,11 +85,6 @@ brew brew-file
 
 tap sanemat/font
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask sublime-text3 (!)
-
 # App Store applications
 appstore 944960179 AnyDo (3.2.1)
 appstore 411246225 Caffeine (1.1.1)
@@ -108,3 +105,4 @@ appstore 425424353 The Unarchiver (3.11.1)
 appstore 403388562 Transmit (4.4.11)
 appstore 409789998 Twitter (4.2.2)
 appstore 461369673 VOX (2.8.5)
+appstore 497799835 Xcode (8.0)
