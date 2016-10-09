@@ -18,14 +18,11 @@ cask iterm2
 cask karabiner
 cask kindle
 cask ngrok
-cask openemu
-cask skype
 cask slack
 cask sublime-text
 cask tuntap
 cask utorrent
 cask vlc
-cask webstorm
 
 tap caskroom/versions
 
